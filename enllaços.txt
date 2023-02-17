@@ -1,3 +1,5 @@
+Alguns enllaços no son de els recursos de la tasca
+
 Enllaços Spring
 https://www.baeldung.com/spring-request-param
 https://www.youtube.com/watch?v=7vHzVN0EiQc&t=6340s
